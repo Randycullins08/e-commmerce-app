@@ -1,4 +1,16 @@
+import { users } from "../mockData";
+
 export default function Navbar() {
+  function renderUsers() {
+    return users.map((user) => {
+      return (
+        <h3 className="user-header" key={user.id}>
+          {user.name}
+        </h3>
+      );
+    });
+  }
+
   return (
     <div className="navbar-container">
       <div className="logo-wrapper">
@@ -15,7 +27,8 @@ export default function Navbar() {
       </div>
 
       <div className="user-wrapper">
-        <h3>User</h3>
+        <i className="fas fa-shopping-cart"></i>
+        {renderUsers()}
       </div>
     </div>
   );

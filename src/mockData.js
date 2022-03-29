@@ -1,106 +1,145 @@
+const users = [
+  {
+    id: 1,
+    name: "Randy",
+  },
+];
+
 const items = [
   {
     id: 1,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?tech",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 2,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?drums",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 3,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?guitar",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 4,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?mac",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 5,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?games",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 6,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?tech",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 7,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?drums",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 8,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?guitar",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 9,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?mac",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 10,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?games",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 11,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?tech",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 12,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?drums",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 13,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?guitar",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 14,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?mac",
+    name: "Name",
+    description: "Description about product",
   },
 
   {
     id: 15,
-    image: "some image",
-    name: "product name",
-    description: "product description",
+    image: "https://source.unsplash.com/random?games",
+    name: "Name",
+    description: "Description about product",
+  },
+  {
+    id: 16,
+    image: "https://source.unsplash.com/random?tech",
+    name: "Name",
+    description: "Description about product",
+  },
+  {
+    id: 17,
+    image: "https://source.unsplash.com/random?drums",
+    name: "Name",
+    description: "Description about product",
+  },
+  {
+    id: 18,
+    image: "https://source.unsplash.com/random?guitar",
+    name: "Name",
+    description: "Description about product",
+  },
+  {
+    id: 19,
+    image: "https://source.unsplash.com/random?mac",
+    name: "Name",
+    description: "Description about product",
+  },
+  {
+    id: 20,
+    image: "https://source.unsplash.com/random?games",
+    name: "Name",
+    description: "Description about product",
   },
 ];
+
+export { users, items };

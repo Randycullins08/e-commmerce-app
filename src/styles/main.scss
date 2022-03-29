@@ -1,11 +1,18 @@
 @import "./navbar.scss";
+@import "./mainContent.scss";
 @import "./footer.scss";
 
 body {
   margin: 0;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
   text-decoration: underline;
   color: inherit;
+}
+
+button {
+  font-weight: 600;
 }
