@@ -11,6 +11,7 @@ export default function MainContent() {
             </li>
             <li className="product-name">{item.name}</li>
             <li className="product-description">{item.description}</li>
+            <li className="product-price">{item.price}</li>
           </ul>
           <button>Add To Cart</button>
         </div>

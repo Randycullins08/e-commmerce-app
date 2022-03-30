@@ -11,6 +11,7 @@ const items = [
     image: "https://source.unsplash.com/random?tech",
     name: "Name",
     description: "Description about product",
+    price: "$4",
   },
 
   {
@@ -18,6 +19,7 @@ const items = [
     image: "https://source.unsplash.com/random?drums",
     name: "Name",
     description: "Description about product",
+    price: "$10",
   },
 
   {
@@ -25,6 +27,7 @@ const items = [
     image: "https://source.unsplash.com/random?guitar",
     name: "Name",
     description: "Description about product",
+    price: "$2",
   },
 
   {
@@ -32,6 +35,7 @@ const items = [
     image: "https://source.unsplash.com/random?mac",
     name: "Name",
     description: "Description about product",
+    price: "$40",
   },
 
   {
@@ -39,6 +43,7 @@ const items = [
     image: "https://source.unsplash.com/random?games",
     name: "Name",
     description: "Description about product",
+    price: "$1",
   },
 
   {
@@ -46,6 +51,7 @@ const items = [
     image: "https://source.unsplash.com/random?tech",
     name: "Name",
     description: "Description about product",
+    price: "$4",
   },
 
   {
@@ -53,6 +59,7 @@ const items = [
     image: "https://source.unsplash.com/random?drums",
     name: "Name",
     description: "Description about product",
+    price: "$10",
   },
 
   {
@@ -60,6 +67,7 @@ const items = [
     image: "https://source.unsplash.com/random?guitar",
     name: "Name",
     description: "Description about product",
+    price: "$2",
   },
 
   {
@@ -67,6 +75,7 @@ const items = [
     image: "https://source.unsplash.com/random?mac",
     name: "Name",
     description: "Description about product",
+    price: "$40",
   },
 
   {
@@ -74,6 +83,7 @@ const items = [
     image: "https://source.unsplash.com/random?games",
     name: "Name",
     description: "Description about product",
+    price: "$1",
   },
 
   {
@@ -81,6 +91,7 @@ const items = [
     image: "https://source.unsplash.com/random?tech",
     name: "Name",
     description: "Description about product",
+    price: "$4",
   },
 
   {
@@ -88,6 +99,7 @@ const items = [
     image: "https://source.unsplash.com/random?drums",
     name: "Name",
     description: "Description about product",
+    price: "$10",
   },
 
   {
@@ -95,6 +107,7 @@ const items = [
     image: "https://source.unsplash.com/random?guitar",
     name: "Name",
     description: "Description about product",
+    price: "$2",
   },
 
   {
@@ -102,6 +115,7 @@ const items = [
     image: "https://source.unsplash.com/random?mac",
     name: "Name",
     description: "Description about product",
+    price: "$40",
   },
 
   {
@@ -115,30 +129,35 @@ const items = [
     image: "https://source.unsplash.com/random?tech",
     name: "Name",
     description: "Description about product",
+    price: "$4",
   },
   {
     id: 17,
     image: "https://source.unsplash.com/random?drums",
     name: "Name",
     description: "Description about product",
+    price: "$10",
   },
   {
     id: 18,
     image: "https://source.unsplash.com/random?guitar",
     name: "Name",
     description: "Description about product",
+    price: "$2",
   },
   {
     id: 19,
     image: "https://source.unsplash.com/random?mac",
     name: "Name",
     description: "Description about product",
+    price: "$40",
   },
   {
     id: 20,
     image: "https://source.unsplash.com/random?games",
     name: "Name",
     description: "Description about product",
+    price: "$1",
   },
 ];
 
